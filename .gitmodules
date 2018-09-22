@@ -1,3 +1,6 @@
 [submodule "recipe-scrapers"]
 	path = recipe-scrapers
 	url = https://github.com/hhursev/recipe-scrapers
+[submodule "RecipeScraper"]
+	path = RecipeScraper
+	url = https://github.com/cclough715/RecipeScraper
